@@ -1,9 +1,11 @@
 **English**
-- 👋 Hi, I’m Shotaro Miyasaka. I’ve been working at Nikkei as a political reporter based in Tokyo. For over a decade I have covered the Japanese government, parliaments, political parties and foreign affairs. I have led news teams for several national elections.
+- Hi, I’m Shotaro Miyasaka.
+- 👋 I’ve been working at Nikkei as a political reporter based in Tokyo. For over a decade I have covered the Japanese government, parliaments, political parties and foreign affairs. I have led news teams for several national elections.
 - 🌱 I’m currently learning data journalism as attending the Lede Program, an intensive course at Columbia University's Graduate School of Journalism.
 
 **日本語**
-- 👋 宮坂と申します。よろしくお願いします。政治記者・デスクをしております。
+- 宮坂と申します。よろしくお願いします。
+- 👋 日本では政治部の記者・デスクをしてきました。最近は特に選挙報道や外交のデータ・ビジュアルコンテンツを担当してきました。
 - 🌱 いまは米コロンビア大のジャーナリズム大学院のLede Programに参加し、データジャーナリズムを学んでおります。
 
 **中文**
