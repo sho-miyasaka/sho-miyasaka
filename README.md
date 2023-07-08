@@ -11,7 +11,7 @@
 **中文**
 - 大家好，我是宫坂正太郎。请多关照。
 - 👋 我十多年来一直在日本经济新闻社工作。作为一名政治记者，我曾报道过日本政府、议会和外交问题。
-- 🌱 现在我在美国哥伦比亚大学的一个课程Lede Program学习数据报道。
+- 🌱 现在我在美国哥伦比亚大学的一个课程Lede Program学习数据新闻。
 
 <!---
 sho-miyasaka/sho-miyasaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
