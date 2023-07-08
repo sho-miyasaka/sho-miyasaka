@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning data journalism as attending the Lede Program, an intensive course at Columbia University's Graduate School of Journalism.
 
 **日本語**
-- 👋 こんにちは政治記者・デスクの宮坂と申します。
-- 🌱 いまは米コロンビア大のジャーナリズム大学院のLede Programに参加し、データジャーナリズムを学んでいます。
+- 👋 宮坂と申します。よろしくお願いします。政治記者・デスクをしております。
+- 🌱 いまは米コロンビア大のジャーナリズム大学院のLede Programに参加し、データジャーナリズムを学んでおります。
 
 **中文**
-- 👋 大家好，我是宫坂正太郎。我十多年来一直在日本经济新闻社工作。作为一名政治记者，我曾报道过日本政府、议会和外交问题。
+- 大家好，我是宫坂正太郎。请多关照。
+- 👋 我十多年来一直在日本经济新闻社工作。作为一名政治记者，我曾报道过日本政府、议会和外交问题。
 - 🌱 现在我在美国哥伦比亚大学的一个课程Lede Program学习数据报道。
 
 <!---
