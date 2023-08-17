@@ -1,6 +1,6 @@
 **English**
 - 👋 Hi, I’m Shotaro.
-- 💻 I’ve been working at Nikkei as a political reporter based in Tokyo, Japan. For over a decade I have covered the Japanese government, parliaments, political parties and foreign affairs. I have led news teams for several national elections.
+- 💻 I’ve been working at Nikkei as a political reporter and editor based in Tokyo, Japan. For over a decade I have covered the Japanese government, parliaments, political parties and foreign affairs. I have led news teams for several national elections.
 - 🌱 I learned data journalism as attending the Lede Program 2023, an intensive course at Columbia University's Graduate School of Journalism.
 
 **日本語**
